@@ -5,6 +5,5 @@ I am a second year computer engineering student. I always try to improve myself 
 ## I am Currently Learning
 - Python
 - C++
+- Socket Programming
 - Academic English
-- Git
-
